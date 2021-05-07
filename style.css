@@ -1,0 +1,10 @@
+a1, p1
+{
+    color: blue;
+}
+
+a:hover
+{
+    text-decoration: underline;
+    
+}
